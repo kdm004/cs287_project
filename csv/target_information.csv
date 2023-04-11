@@ -1,0 +1,85 @@
+,childid,Sex,AgeMonths,AgeYears,depdxever,anxdxever,adhddxever,depsxtotpres,anxsxtotpres,adhdsxtot,sx_tot,adhd_general,depdxtypes,anxdxtypes
+0,101,Male,51,4,0,0,0,0,0,0,0,0,,
+1,102,Female,92,7,1,1,0,3,5,0,8,0,NOS,
+2,103,Female,64,5,0,1,4,1,10,4,15,1,,GAD
+3,106,Male,79,6,0,1,0,0,4,0,4,0,,separation anxiety disorder
+4,107,Male,80,6,0,0,0,0,0,0,0,0,,
+5,108,Male,92,7,0,0,0,0,0,0,0,0,,
+6,11,Male,62,5,0,0,0,0,0,0,0,0,,
+7,112,Female,86,7,0,0,4,1,1,8,10,1,,
+8,113,Female,82,6,0,0,0,1,1,0,2,0,,
+9,114,Male,83,6,0,1,0,1,0,0,1,0,,"social phobia, generalized anxiety"
+10,117,Male,85,7,0,0,1,0,0,7,7,1,,
+11,118,Male,96,8,1,0,0,0,0,1,1,0,NOS,
+12,12,Female,90,7,0,1,0,3,11,0,14,0,,OCD GAD
+13,120,Male,103,8,1,0,2,1,1,8,10,1,NOS? trauma related,
+14,123,Male,95,7,0,1,4,0,12,10,22,1,,GAD
+15,124,Male,78,6,0,1,2,1,14,7,22,1,,GAD
+16,126,Male,75,6,0,0,0,1,1,0,2,0,,
+17,127,Male,74,6,0,1,2,1,5,10,16,1,,specific phobia
+18,13,Male,57,4,0,0,0,0,0,0,0,0,,
+19,131,Male,71,5,0,0,0,1,4,0,5,0,,
+20,134,Female,102,8,0,1,0,1,2,0,3,0,,Specific Phobia Vomit
+21,135,Male,67,5,0,0,0,2,0,0,2,0,,
+22,136,Male,67,5,0,1,0,1,3,0,4,0,,social phobia
+23,139,Male,74,6,0,0,0,1,0,0,1,0,,
+24,141,Male,82,6,0,0,0,1,1,0,2,0,,
+25,147,Female,91,7,0,0,0,0,0,0,0,0,,
+26,148,Male,84,7,0,1,0,0,2,0,2,0,,Social phobia
+27,152,Male,71,5,0,0,0,0,0,0,0,0,,
+28,155,Female,100,8,0,0,0,4,0,1,5,0,,
+29,159,Male,74,6,1,0,0,7,0,0,7,0,Depressiion-NOS,
+30,166,Male,97,8,0,0,3,0,0,10,10,1,,
+31,167,Male,65,5,0,0,0,0,0,0,0,0,,
+32,168,Male,72,6,0,0,0,0,0,0,0,0,,
+33,17,Female,95,7,0,0,0,2,0,0,2,0,,
+34,18,Female,87,7,0,0,0,0,0,2,2,0,,
+35,2,Male,93,7,0,0,0,0,0,0,0,0,,
+36,21,Male,85,7,0,0,0,0,0,0,0,0,,
+37,25,Female,103,8,0,1,0,1,12,0,13,0,,SAD GAD
+38,26,Male,79,6,0,1,0,4,8,1,13,0,,SAD Social
+39,27,Female,67,5,0,1,0,0,5,0,5,0,,anxiet NOS
+40,28,Male,93,7,0,0,0,0,0,0,0,0,,
+41,30,Female,102,8,1,1,0,6,11,0,17,0,MDD,GAD and SAD and borderline social
+42,36,Female,83,6,0,1,4,0,8,7,15,1,,GAD; social phobia
+43,39,Male,76,6,0,0,0,0,0,0,0,0,,
+44,4,Female,49,4,0,0,0,0,0,0,0,0,,
+45,41,Male,77,6,0,1,0,0,2,1,3,0,,anxietyNOS
+46,42,Female,68,5,0,0,4,0,0,10,10,1,,
+47,43,Female,65,5,0,0,0,0,0,0,0,0,,
+48,48,Male,77,6,1,1,0,4,10,0,14,0,MDD,SAD and GAD and specific phobia
+49,49,Male,85,7,0,0,0,0,0,0,0,0,,
+50,5,Male,68,5,0,0,0,0,0,0,0,0,,
+51,51,Male,101,8,0,1,4,0,5,19,24,1,,GAD
+52,58,Female,100,8,0,1,0,0,0,0,0,0,,Social phobia
+53,59,Male,93,7,0,0,0,0,0,0,0,0,,
+54,6,Male,103,8,0,0,0,0,0,0,0,0,,
+55,62,Male,53,4,0,0,0,0,0,0,0,0,,
+56,68,Female,73,6,0,0,0,0,0,0,0,0,,
+57,69,Male,60,5,0,0,4,0,0,12,12,1,,
+58,7,Male,102,8,0,0,0,0,0,0,0,0,,
+59,71,Male,74,6,0,1,0,0,4,0,4,0,,
+60,72,Female,93,7,0,1,0,2,3,0,5,0,,social phobia and generalized anxiety disorder
+61,73,Female,58,4,0,0,0,0,0,0,0,0,,
+62,75,Male,86,7,0,0,4,0,0,7,7,1,,
+63,76,Female,101,8,1,1,0,8,9,0,17,0,"MDD, dys","panic disorder, social phobia, generalized anxiety disorder"
+64,77,Female,93,7,0,0,0,0,0,0,0,0,,
+65,78,Male,79,6,1,1,4,13,10,17,40,1,depressive disorder NOS and dysthymia,Borderline GAD and phobic disorder and SAD
+66,79,Male,82,6,0,0,4,0,0,17,17,1,,
+67,8,Male,91,7,0,1,0,0,4,0,4,0,,Specific Phobia: water on face?
+68,80,Female,100,8,0,0,0,0,0,0,0,0,,
+69,81,Female,84,7,0,0,0,1,0,0,1,0,,
+70,82,Female,74,6,0,1,0,1,0,0,1,0,,SAD
+71,83,Female,67,5,0,0,0,0,0,0,0,0,,
+72,84,Female,81,6,0,0,0,0,0,0,0,0,,
+73,85,Female,61,5,0,0,0,0,0,0,0,0,,
+74,88,Female,69,5,0,1,0,1,12,0,13,0,,generalized
+75,89,Female,83,6,0,0,0,0,0,0,0,0,,
+76,91,Male,77,6,1,1,0,4,6,0,10,0,Dysthymia; current may be MDD?,Separation anxiety; specific phobia; generalized anxiety
+77,92,Female,94,7,0,0,0,0,0,0,0,0,,
+78,93,Male,102,8,1,0,0,9,0,2,11,0,depressive disorder NOS ,
+79,95,Male,107,8,0,0,0,0,5,0,5,0,,
+80,10,Male,105,8,0,1,2,0,5,5,10,1,,SAD Specific Phobia
+81,140,Male,49,4,0,0,0,0,0,6,6,0,,
+82,22,Female,94,7,1,1,1,12,11,8,31,1,dysthymia-secondary type,SADpast GAD current and past.
+83,24,Male,88,7,0,0,0,0,0,0,0,0,,
